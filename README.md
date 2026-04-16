@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  **Desenvolvedor | Inovador | Apaixonado por Código**
+  **Educador | Desenvolvedor | Inovador | Apaixonado por CodeEdu**
   
   [![GitHub followers](https://img.shields.io/github/followers/devgerlancsilva?logo=github&style=for-the-badge)](https://github.com/devgerlancsilva)
   [![GitHub User's stars](https://img.shields.io/github/stars/devgerlancsilva?logo=github&style=for-the-badge)](https://github.com/devgerlancsilva)
